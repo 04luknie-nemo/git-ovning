@@ -2,4 +2,4 @@
 
 hur mår du
 
-bajs
+Idag ska vi prata om hur man programerar ett program
