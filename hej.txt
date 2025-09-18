@@ -5,3 +5,5 @@ hur mår du
 Idag ska vi prata om hur man programerar ett program
 
 olapola
+
+nya grejor 
